@@ -1,6 +1,6 @@
 # CheatSheets
 
-Not a fan of pictureless manuals and monotone diagrams. Hence sometimes I would cook up a nice looking reference. Hope you find them of good use!
+Sometimes I would cook up a nice looking reference or two, seems to boost learning. Hope you find them of good use!
 
 ## Binary
 ![](https://github.com/fonera/cheatsheets/blob/main/binary-cheatsheet.jpg)
